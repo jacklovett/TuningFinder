@@ -1,3 +1,6 @@
+TEMPLATE = app
+TARGET = TuningFinder
+
 QT += quick
 
 CONFIG += c++11

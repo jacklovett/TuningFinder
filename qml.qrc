@@ -2,10 +2,10 @@
     <qresource prefix="/">
         <file>main.qml</file>
         <file>qtquickcontrols2.conf</file>
-        <file>pages/ResultsPage.qml</file>
-        <file>pages/HomePage.qml</file>
+        <file>pages/Results.qml</file>
+        <file>pages/Home.qml</file>
         <file>AppSettings.qml</file>
         <file>qmldir</file>
-        <file>pages/WizardPage.qml</file>
+        <file>pages/Wizard.qml</file>
     </qresource>
 </RCC>

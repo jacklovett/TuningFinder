@@ -11,7 +11,7 @@ ApplicationWindow {
 
     StackView {
         id: stackView
-        initialItem: "pages/HomePage.qml"
+        initialItem: "pages/Home.qml"
         anchors.fill: parent
     }
 }
